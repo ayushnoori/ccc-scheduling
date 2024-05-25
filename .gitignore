@@ -2,8 +2,9 @@
 *.DS_Store
 .DS_Store
 
-# Ignore python cache files
+# Ignore Python cache files
 __pycache__/
 
-# Ignore CSV files
+# Ignore data files
 *.csv
+*.xlsx
